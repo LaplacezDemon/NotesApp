@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8D2357F1-CB01-46A7-A56F-F81F912DAF50}|Default">
+  <MonoDevelop.Ide.ItemProperties.NotesApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotesApp/Startup.cs">
+    <Files>
+      <File FileName="NotesApp/Controllers/NotesController.cs" Line="78" Column="29" />
+      <File FileName="NotesApp/Models/Note.cs" Line="14" Column="21" />
+      <File FileName="NotesApp/Models/NoteContext.cs" Line="10" Column="9" />
+      <File FileName="NotesApp/Startup.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
